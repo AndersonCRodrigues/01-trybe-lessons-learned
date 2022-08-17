@@ -1,5 +1,27 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
 body {
   background-color: rgb(253, 251, 251);
+  border: 1px solid black;
+}
+
+header {
+  border: 1px solid red;
+}
+
+main {
+  border: 1px solid green;
+}
+
+aside {
+  border: 1px solid blue;
+}
+
+footer {
+  border: 1px solid yellow;
 }
 
 #cabecalho {
