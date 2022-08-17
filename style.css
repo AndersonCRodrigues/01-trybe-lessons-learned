@@ -6,3 +6,12 @@ body {
   top: 0;
   background-color: rgba(0, 89, 255, 0.801);
 }
+
+table {
+  border: 1px solid black;
+  border-spacing: 0;
+}
+
+td {
+  border: 1px solid black;
+}
